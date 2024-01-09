@@ -1,2 +1,2 @@
 Olá esse é um teste de git
-Essa é uma nova linha
+Essa é uma nova linha de código de teste
